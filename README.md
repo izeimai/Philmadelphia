@@ -1,11 +1,20 @@
 # Filmadelphia
-Project 2
+https://filmadelphia.herokuapp.com/
 
 ---
 
 **Overview**
 
 A user would sign up and fill a survey that will determine a movie based on their survey responses. A map of Philadelphia is populated with film locations where scenes from the movie were shot, as well as accompanying movie trivia related to the location. The objective is to popularize these locations related to the movie and revitalize the city through local tourism. 
+
+---
+
+**Contributors**
+
+Alex Kruger -- Routing and APIs
+Kevin Bray -- Survey logic
+Suzanne Hunter -- Style
+Ize Imai -- Map
 
 ---
 
