@@ -11,10 +11,10 @@ A user would sign up and fill a survey that will determine a movie based on thei
 
 **Contributors**
 
-Alex Kruger -- Routing and APIs
-Kevin Bray -- Survey logic
-Suzanne Hunter -- Style
-Ize Imai -- Map
+* Alex Kruger -- Routing and API calls
+* Kevin Bray -- Survey logic and Passport
+* Suzanne Hunter -- Style and Logo design
+* Ize Imai -- Map and GeoJSON array for locations
 
 ---
 
